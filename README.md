@@ -13,7 +13,6 @@ I used Python, Pandas, Pyplot, and Seaborn the latter three were imported librar
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Pandas 101](https://www.w3schools.com/python/pandas/default.asp)
 * [Pyplot Documentation](https://matplotlib.org/stable/tutorials/pyplot.html)
 * [Seaborn 101](https://www.geeksforgeeks.org/python-seaborn-tutorial/)
